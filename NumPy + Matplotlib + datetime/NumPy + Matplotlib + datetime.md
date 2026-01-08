@@ -368,15 +368,3 @@ plt.show()
 - Birlikte kullanıldığında **veri analizi ve raporlama** yapılır
     
 
-İstersen:
-
-- Bunları **tek PDF ders notu**
-    
-- **Sınav odaklı özet**
-    
-- **Sadece kod içeren cheat sheet**
-    
-- **Adım adım alıştırmalı çalışma defteri**
-    
-
-formatlarından herhangi birine dönüştürebilirim.
