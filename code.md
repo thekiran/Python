@@ -1,3 +1,6 @@
+
+<img width="432" height="165" alt="resim" src="https://github.com/user-attachments/assets/f8647315-9e9c-4fa8-aa81-62dbde381fc3" />
+
 ![WhatsApp Image 2025-12-27 at 12 59 23](https://github.com/user-attachments/assets/db155d48-f201-4d4b-8712-b68472c7fddb)
 
 ---
